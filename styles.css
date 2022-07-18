@@ -1,15 +1,15 @@
 * {
-  font-family: "Zac Regular";
+  font-family: "Royalacid";
 }
 
 @font-face {
-  font-family: Mabook;
-  src: url(fonts/Mabook.ttf);
+  font-family: Royalacid;
+  src: url(fonts/Royalacid.ttf);
 }
 
 @font-face {
-  font-family: Zac Regular;
-  src: url(fonts/Zac Regular.ttf);
+  font-family: Bohemian Typewriter;
+  src: url(fonts/Bohemian Typewriter.ttf);
 }
 
 @font-face {
