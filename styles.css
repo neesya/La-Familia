@@ -13,29 +13,29 @@
 }
 
 @font-face {
-  font-family: ROT;
-  src: url("fonts/RUNNING ON EMPTY.ttf");
+  font-family: Waterloo Relief;
+  src: url("fonts/Waterloo Relief.ttf");
 }
 
 @font-face {
-  font-family: Hujan;
-  src: url("fonts/Hujan.ttf");
+  font-family: Enchanted Land;
+  src: url("fonts/Enchanted Land.ttf");
 }
 
 body {
-  background-color: #133337;
+  background-color: #9FA5B5;
 }
 h1 {
-  font-size: 300%; font-family: "Hujan"; color: #63B99B;
+  font-size: 300%; font-family: "Royalacid"; color: #887683;
 }
 p {
-  color: #DFF0E5;
+  color: #B5A6AB;
 }
 h2 {
-  font-family: "Mabook"; color: #D0D5B9;
+  font-family: "Waterloo Relief"; color: #547DAF;
 }
 h3 {
-  font-family: "ROT"; color: #F6EEA7;
+  font-family: "Enchanted Land"; color: #8DA47E;
 }
 
 a:link {
